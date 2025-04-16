@@ -1,0 +1,75 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    background-image: url('Imagen/DIE.jpg'); /* Ruta de tu imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para que cubra todo el contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* La imagen se mantiene fija al hacer scroll */
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden; /* Evita el scroll horizontal */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Color de fondo con transparencia */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+}
+
+button {
+    padding: 6px 12px;
+    background-color: #9b1081;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9b1081;
+}
+
+/* Asegurar el scroll vertical */
+html, body {
+    height: 100%;
+}
+
+.footer {
+    /* position: fixed; */ /* Eliminar esta línea */
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .footer p {
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  .title-modern {
+    font-family: 'Moderna', sans-serif;
+  }
