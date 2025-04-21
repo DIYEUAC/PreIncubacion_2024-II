@@ -1,6 +1,6 @@
 const certificates = [
     { name: 'AVILA DAVILA DENNISSE PAOLA', dni: '46093707', link: 'https://drive.google.com/file/d/1YUlnnUkom44BdEsNb4UGM_gcLb89hCi2/view?usp=sharing'},
-    { name: 'CARLOS HANCO ALEJNADRA THALIA', dni: '71330030', link: 'https://drive.google.com/file/d/1GSY8xQB8FKAEXwh3JG3M2CtCKCL_y69d/view?usp=sharing'},
+    { name: 'CARLOS HANCO ALEJANDRA THALIA', dni: '71330030', link: 'https://drive.google.com/file/d/1GSY8xQB8FKAEXwh3JG3M2CtCKCL_y69d/view?usp=sharing'},
     { name: 'CORNEJO ROJAS ANGELA', dni: '41922103', link: 'https://drive.google.com/file/d/1xErIjM2-PbmxFr1wQ6oF8sJdUBmavg-2/view?usp=sharing'},
     { name: 'HUALLPAMAYTA PONCE, CARMEN ROSA', dni: '23883818', link: 'https://drive.google.com/file/d/13oVu2gTFcuVcku-b0BiBo304UxxQsJdW/view?usp=sharing'},
     { name: 'LISETH URPY SEGUNDO CARPIO', dni: '46480186', link: 'https://drive.google.com/file/d/11do4En4RbvPfzre8ncpxb0HqWHa6rJ9o/view?usp=sharing'},
@@ -48,7 +48,7 @@ const certificates = [
     { name: 'HUMPIRE CASTRO, ROY ANDY', dni: '72639015', link: 'https://drive.google.com/file/d/1ywuJZbxxJT71vKsEhn5YwsUK2hFLL5Cy/view?usp=sharing'},
     { name: 'CANAHUIRE MONTUFAR ABRAHAM EDGARD', dni: '23961090', link: 'https://drive.google.com/file/d/1GD_EGjJEFJaBUDeKiM94eXLCHPSg2Qx5/view?usp=sharing'},
     { name: 'ASTETE CALDERON GABRIELA', dni: '70458417', link: 'https://drive.google.com/file/d/1OsvvRhQs7-OyngOS2idAvbe-qtd80j3D/view?usp=sharing'},
-    { name: 'a:MAROCHO CAPA GABRIELA IRMA', dni: '76181199', link: 'https://drive.google.com/file/d/1Zg4BjNvIPbUO9c_rLDBJQtYGm01maigt/view?usp=sharing'},
+    { name: 'MAROCHO CAPA GABRIELA IRMA', dni: '76181199', link: 'https://drive.google.com/file/d/1Zg4BjNvIPbUO9c_rLDBJQtYGm01maigt/view?usp=sharing'},
 ];
 
 function loadTable() {
